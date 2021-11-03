@@ -1,5 +1,5 @@
 # How Is JavaScript Executed?
-[Dev.to](https://dev.to/namitmalasi/how-javascript-code-is-executed-5km)
+[Dev.to](https://dev.to/namitmalasi/how-javascript-code-is-executed-5km) <br>
 [youtube link](https://youtu.be/iLWTnMzWtj4)
 
 # Dynamic vs weakly typed 
