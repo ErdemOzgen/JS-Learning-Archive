@@ -10,6 +10,10 @@ JS Learning Archive
 <img src="img/jsBook4.jpg" width="200">
 </div>
 
+# Course
+Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2021
+[Udemy Course Link](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+
 
 # Table of Contents
 
