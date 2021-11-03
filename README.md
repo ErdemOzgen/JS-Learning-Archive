@@ -11,8 +11,10 @@ JS Learning Archive
 </div>
 
 # Course
+<img src="img/udemy.png" width="200">
 Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2021
-[Udemy Course Link](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+
+[Udemy Link](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 
 
 # Table of Contents
@@ -24,6 +26,8 @@ Modern JavaScript from the beginning - all the way up to JS expert level! THE mu
 ## JAVASCRIPT PATTERNS
 
 ## BEGINNING NODE.JS
+
+## UDEMY COURSE
 
 
 
