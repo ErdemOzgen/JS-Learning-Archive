@@ -20,14 +20,20 @@ Modern JavaScript from the beginning - all the way up to JS expert level! THE mu
 # Table of Contents
 
 ## ELEQUENT JAVASCRIPT
-
+* [Source Code](https://github.com/ErdemOzgen/JS-Learning-Archive/tree/main/src/eloquentJavascript)
+* Notes About Book
 ## JAVASCRIPT: THE GOOD PARTS
-
+* Source Code
+* Notes About Book
 ## JAVASCRIPT PATTERNS
-
+* Source Code
+* Notes About Book
 ## BEGINNING NODE.JS
-
+* Source Code
+* Notes About Book
 ## UDEMY COURSE
+* Source Code
+* Notes About Course
 
 
 
